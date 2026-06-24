@@ -1,0 +1,1 @@
+# 08-Windows-Server-2025-Deploying-a-Standardized-Desktop-Wallpaper-Using-Group-Policy
